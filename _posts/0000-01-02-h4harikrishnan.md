@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+ninnilekkullathayirunnu innolam enikuthettiya vazhikalellam...
 Use the left arrow to go back!
